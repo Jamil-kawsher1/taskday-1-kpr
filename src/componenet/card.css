@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+.card-main-container {
+    padding: 20px;
+
+    width: 600px;
+    height: auto;
+    margin: 80px auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+img {
+    width: 120px;
+    height: auto;
+    padding: 5px;
+    object-fit: contain;
+    border-radius: 50%;
+
+}
+
+.profile-div {
+    width: 120px;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid green;
+    margin: 0 auto;
+}
